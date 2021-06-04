@@ -1,0 +1,4 @@
+pymunk
+cv2
+numpy
+mediapipe
